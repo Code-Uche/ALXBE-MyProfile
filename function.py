@@ -17,7 +17,6 @@ print(id(caucasian))
 
 
 # Lets define functions and how to call them
-
 def myFunction():
     """This is the formula for defining a function"""
     # code block
