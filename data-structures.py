@@ -3,7 +3,7 @@
 
 boys = ["olamide", "ayo", "uche"]
 boys.append("louise")
-
+boys[3] = "chika"
 
 # Define a function called to list the name of boys in the class
 def boy_names():
@@ -27,3 +27,4 @@ def boy_names():
 
 return_value = boy_names()
 print(return_value)
+print(boys)

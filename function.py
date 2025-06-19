@@ -27,7 +27,7 @@ def myFunction():
 def login(email, password):
     return "This is the right credentials" if email == "preciousueze@gmail.com" and password == "password123"\
           else "Enter the correct credentials"
-    print(f"Can user login: {login('preciousueze@gmail.com', 'password123')}")
+print(f"Can user login: {login('preciousueze@gmail.com', 'password123')}")
     # Not passing a value to return automatically sets it to None.
 
 return_value = login("example@example.com", "kjsvnkjsn")
