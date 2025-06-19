@@ -3,7 +3,7 @@
 
 boys = ["olamide", "ayo", "uche"]
 boys.append("louise")
-boys[3] = "chika"
+boys[0] = "chika"
 
 # Define a function called to list the name of boys in the class
 def boy_names():
